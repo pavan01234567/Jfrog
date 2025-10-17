@@ -45,7 +45,7 @@ pipeline {
                             "files": [
                                 {
                                     "pattern": "target/*.jar",
-                                    "target": "newrepo-libs-release-local/"
+                                    "target": "java-spc-libs-release-local/"
                                 }
                             ]
                         }''',
